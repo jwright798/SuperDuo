@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scores_layout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Football Scores"
+        android:textSize="24sp"
+        android:textColor="#000000"
+        android:gravity="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+        <TextView
+            android:id="@+id/game_1_home_team"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:paddingStart="10dp"
+            android:text="HOME TEAM"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/game_1_score"
+            android:gravity="center|center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:textSize="24sp"
+            android:text="1-1"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/game_1_away_team"
+            android:gravity="end|center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:paddingEnd="10dp"
+            android:layout_weight="1"
+            android:text="AWAY TEAM"
+            android:textColor="#000000"/>
+    </LinearLayout>
+
+</LinearLayout>

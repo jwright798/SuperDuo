@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/classes-3a7d8c870277c949d154100ccf04e4e0c510003e.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Downloads/adt-bundle-mac-x86_64-20130219/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-085be4c509d88c9126ba40ce841972b345254250.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/classes-48590df7e0ba29f0897efa1a157d5b3e64e18818.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d3f9d50cdc5db04effe6ce340166a5080de754de.jar" />
+    </item>
+
+</items>
