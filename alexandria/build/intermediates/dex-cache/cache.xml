@@ -2,214 +2,214 @@
 <items version="2" >
 
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="82054090e487d78e163a988557db62d809fa9b95">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-c0fc040d7bbafb2f332cce95888bf770be96481f.jar" />
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-50e32dbf03a13f5ddc7cc80b2463afc6e148d086.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-81b4770d83899c0c1918514c11633e0d4dc53f6e.jar" />
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-b7a8da0d557b1a416119eec6aedeaccd3b3aa470.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-5dfbdefcb1b1a2e0aceb88b6d9e5a74096358080.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-a878bc3682ba98218fed9c657f7ca2c0223230ab.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-9424ee58639aefcebd56ac4f4c9f599bbc45bb90.jar" />
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-818f57edd3875fdb51a2beedba50420b63247945.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3178362320bcf51228835b60ff978efadfd1f783">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-a3be0787187414fa5b05a523705d57229b5bfbf1.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-c37c41abc4f7adb2899c21770a35b07fb248ab3a.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="95758a2905669affbffc5ddd262921d375674fad">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-7cc9babf90ad24dff54f4b4e2817a3c3dedc69b7.jar" />
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-f32127efeb372e6253c2981e85c30d28388a3f6c.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-608f95a14ad2e68f30abccbc9551439ad6f4e0b2.jar" />
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-a4fc5dce03a1de7c7e43c65a7c2160e0930f8fe6.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-a69f47b8f75414d53ad16c4cf059d21069f7d69d.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="17449c47df35c754b257532052f1270c444f7993">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-4bea2dd2a3c71049433027c6ccce880ed59eba17.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-93ae750bbd978fbefb05c469f4ab500e3c745301.jar" />
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-2089a22396382cfabb367d0b8abcee1b20b413b3.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-1329ef519d400d06591661648ac20446da0961cd.jar" />
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-3d9c90dc5f86e7b44147353afff9918731075fc0.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-626d3a1b5ad19381db3ba032bb2bde4374534eec.jar" />
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-52cce893e3e04b31d35d0a66c12a25a5d32a2ae5.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-470db6debfafbf2624c96a7aa8e1cfc3899ded93.jar" />
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-9b41b09678e6b527354ed02a72c61a0485d13b39.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-20f9e1ffce389a27d6dc116a42d44854c0cab4f4.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-8be414622cf7f16fe39b1bcfe602448d3ae506ae.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-e6e8caf1933ff730767827a1e51a10b9ff395512.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="3aed37c38c56679602255dd72ef356da5d327cda">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-30df6332fc77d6dc6456e88943e665da4f0767e0.jar" />
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-ebd4179d3b2fc1246b3a49c081c63badb44aa535.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-a5dece0f5051af8dafb95ded7b76624072f32d91.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-555e44322b4ce7bf2439b8f736a47bb597e90ac3.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-b1fb37b2a44224627fa5e7818f483123375df277.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-34cbfbc9830c59478287bc0791462a3b654fc69d.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-9a835097efb8091007b1378092a14037e3da12fe.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-0ba7b77b61dc69965f08631865d71d930b3e7c3f.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-7eb7f68b52108084c51f296c5d6f73bb19420d25.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-cf5fb5b37699417a692122c004adb91d11d97d1c.jar" />
     </item>
     <item
         jar="/Users/jeremywright/Downloads/adt-bundle-mac-x86_64-20130219/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-a0b1c659122af199da13d2b2b59f3e737fac0593.jar" />
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-a0b1c659122af199da13d2b2b59f3e737fac0593.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-5b14201dac4693652c4d5c4f9a1cc03d3ea10579.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="997773777cf3904c11d6764fe3b7668538220e49">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-00327c006d3dba88a8bb1ea2c22505100f7281da.jar" />
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-baa00a868ece36d30addd4cce1e4745f19837eed.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-db37dcfc6e66f1a2545642f873b4cab3fe25fff8.jar" />
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-59ee3d3602dd753a33d4ea8820b4d31316e24983.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-083919c59541ef420c96c989f0b7b7b4e5d1ec23.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-ef11622f0e3b9ccd3620e928c4cbdae1781b45cb.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-63603806b279c4d0ba4aa405f6710591d15836ab.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-8f5c72532dd991cbe4e820f0b936714515302a04.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="482de223655d06253cc6a4955d653f8994169500">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-e8bd4754e806cccc3ed332af21d0b0a9f6ef6c25.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-acceb988c81100cae130b378a683da60d17688cf.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-ad53a230203d28a639225aa0664c01ccefabb1e6.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/jacoco/jacocoagent.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-d9e062646936d78bde8278862fd5c49d891b6368.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-caeef0155f38880642feaf3f2c23469f36afb696.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-b4e584f885ef1f548fd2ddcfee76595906738e3f.jar" />
-    </item>
-    <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-053b38ec4fc27f2f38c71edd6639e5c1d472ed41.jar" />
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-eec2400cb6668e40a24c87d2088c04887161c790.jar" />
     </item>
     <item
-        jar="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/classes.jar"
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
-        <dex dex="/Users/jeremywright/Desktop/alexandria/app/build/intermediates/pre-dexed/debug/classes-c04a3ee85966f88caf71625c94f7422fa6b61314.jar" />
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-d6ba72f92566c7f8d3b1acdca9a4e82fa30eb738.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-881b3fb7e9a220b9bc2da93aea8cd3d4793b3356.jar" />
+    </item>
+    <item
+        jar="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/jeremywright/Desktop/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-4e92f08871172f59bea28f5b1c117a36bc9efed5.jar" />
     </item>
 
 </items>
